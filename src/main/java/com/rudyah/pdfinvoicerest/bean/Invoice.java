@@ -1,4 +1,6 @@
-package com.rudyah.bean;
+package com.rudyah.pdfinvoicerest.bean;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.util.UUID;
 

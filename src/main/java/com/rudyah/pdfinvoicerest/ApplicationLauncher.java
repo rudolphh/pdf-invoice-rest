@@ -1,5 +1,6 @@
-package com.rudyah;
+package com.rudyah.pdfinvoicerest;
 
+import com.rudyah.pdfinvoicerest.web.PdfInvoicesServlet;
 import org.apache.catalina.Context;
 import org.apache.catalina.LifecycleException;
 import org.apache.catalina.Wrapper;
